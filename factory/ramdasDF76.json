@@ -1,0 +1,15 @@
+{
+	"name": "ramdasDF76",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "japanwest",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1103f91e-7d97-4b85-a15a-16b2e3532c02",
+		"tenantId": "b1fed8f6-0dc0-46f5-86f8-5e4837f392b2"
+	}
+}
